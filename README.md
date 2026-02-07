@@ -1,5 +1,13 @@
 # Github Pull Request Reviewer
 
+
+```bash
+git clone https://github.com/beaulahkinnera-ai/capstone-project/
+cd captstone-project
+python -m venv .venv
+venv\Scripts\activate
+```
+
 ## Product Requirement Document
 
 ### Problem
